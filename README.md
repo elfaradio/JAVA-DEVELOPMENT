@@ -1,2 +1,2 @@
 # JAVA-DEVELOPMENT
- Normal JAVA Projects
+Here, you can find normal Java projects.
