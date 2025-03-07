@@ -1,7 +1,7 @@
 A simple Java console application to manage employee salaries, deductions, and payments.
 
 
-Features
+Features:
     Supports Full-Time and Part-Time employees
     Salary Calculation:
         Full-Time: Fixed monthly salary
