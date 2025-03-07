@@ -1,4 +1,4 @@
-A simple Java console application to manage employee salaries, deductions, and payments.
+A simple Java console application using oop to manage employee salaries, deductions, and payments.
 
 
 Features:
